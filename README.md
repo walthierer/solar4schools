@@ -18,8 +18,8 @@
 + Open VSCodium --> i hope my following instructions are the same under windows
 + click on "Terminal" open "new Terminal"
 + a shell / terminal / etx opnes in VSCodium
-+ copy and paste following code, put in your specific data (user name, email adress)
-  'git config --global user.name "freedom_34 or so"'
-  'git config --global user.email "natti@google.de"'
++ copy and paste following code, put in your specific data (user name, email adress)<br>
+  ```git config --global user.name "freedom_34_or_so" ``` <br>
+  ```git config --global user.email "natti@google.de" ``` <br>
 
 
